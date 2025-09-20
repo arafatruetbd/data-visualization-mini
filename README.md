@@ -8,7 +8,7 @@ This beginner-friendly project demonstrates **data handling** and **visualizatio
 
 ## 📂 Project Structure
 
-
+```
 
 data-visualization-mini/
 │
@@ -17,6 +17,7 @@ data-visualization-mini/
 ├── requirements.txt         # Required Python packages
 └── README.md                # Project description & instructions
 
+````
 
 ---
 
@@ -35,7 +36,7 @@ data-visualization-mini/
 
 ## 🗂 Sample CSV (`sales.csv`)
 
-
+```csv
 Month,Sales,Profit
 Jan,20000,5000
 Feb,25000,7000
@@ -43,7 +44,7 @@ Mar,22000,6000
 Apr,27000,8000
 May,30000,9000
 Jun,28000,8500
-
+````
 
 ---
 
